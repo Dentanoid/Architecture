@@ -1,0 +1,3 @@
+[submodule "Appointment-Service-Go"]
+	path = Appointment-Service-Go
+	url = https://github.com/Dentanoid/Appointment-Service-Go.git
