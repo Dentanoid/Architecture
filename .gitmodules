@@ -7,3 +7,9 @@
 [submodule "Patient-Client"]
 	path = Patient-Client
 	url = https://github.com/Dentanoid/Patient-Client.git
+[submodule "Dentist-API"]
+	path = Dentist-API
+	url = https://github.com/Dentanoid/Dentist-API.git
+[submodule "Patient-API"]
+	path = Patient-API
+	url = https://github.com/Dentanoid/Patient-API.git
