@@ -25,3 +25,6 @@
 [submodule "Clinic-Service"]
 	path = Clinic-Service
 	url = https://github.com/Dentanoid/Clinic-Service.git
+[submodule "Scaled-Deployment"]
+	path = Scaled-Deployment
+	url = https://github.com/Dentanoid/Scaled-Deployment.git
