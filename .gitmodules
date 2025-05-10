@@ -13,3 +13,12 @@
 [submodule "Patient-API"]
 	path = Patient-API
 	url = https://github.com/Dentanoid/Patient-API.git
+[submodule "User-Service"]
+	path = User-Service
+	url = https://github.com/Dentanoid/User-Service.git
+[submodule "Monitoring-Service"]
+	path = Monitoring-Service
+	url = https://github.com/Dentanoid/Monitoring-Service.git
+[submodule "Notification-Service"]
+	path = Notification-Service
+	url = https://github.com/Dentanoid/Notification-Service.git
