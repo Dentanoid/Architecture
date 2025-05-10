@@ -1,3 +1,9 @@
 [submodule "Appointment-Service-Go"]
 	path = Appointment-Service-Go
 	url = https://github.com/Dentanoid/Appointment-Service-Go.git
+[submodule "Dentist-Client"]
+	path = Dentist-Client
+	url = https://github.com/Dentanoid/Dentist-Client.git
+[submodule "Patient-Client"]
+	path = Patient-Client
+	url = https://github.com/Dentanoid/Patient-Client.git
